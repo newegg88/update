@@ -1,0 +1,8 @@
+{
+    "description":"",
+    "format":".lzma",
+    "main":"小强广告拦截.exe",
+    "updater":"小强广告拦截.exe",
+    "url":"https://newegg88.github.io/update/xqad",
+    "version":"1.0.0.02"
+}
