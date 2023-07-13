@@ -4,5 +4,5 @@
     "main":"学习达人.exe",
     "updater":"学习达人.exe",
     "url":"https://newegg88.github.io/update/xxdr",
-    "version":"1.0.0.02"
+    "version":"1.0.0.03"
 }
