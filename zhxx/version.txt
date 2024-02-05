@@ -4,5 +4,5 @@
     "main":"智慧学习加强版.exe",
     "updater":"智慧学习加强版.exe",
     "url":"https://newegg88.github.io/update/zhxx",
-    "version":"1.0.0.04"
+    "version":"1.0.0.05"
 }
